@@ -93,7 +93,7 @@
 }
  
 .filter-saturate {
-  filter: saturate(250%);
+  filter: saturate(250%) contrast(1.2);
 }
 
 .filter-hue-rotate {
